@@ -22,10 +22,13 @@ The environments considered are:
 
 ## Instructions
 conda create --name lagrseq python=3.9
+
 conda activate lagrseq
+
 Install dependencies with pip install -r requirements.txt
 
 Users will also need a paid account with a valid key to access OpenAI API
+
 Set openai API key using instructions from: https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
 
 ##Sample call:
