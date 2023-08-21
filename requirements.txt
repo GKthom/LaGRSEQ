@@ -1,0 +1,10 @@
+#running pip install -r requirements.txt will install the dependencies in this file.
+
+openai
+python-time
+python-dotenv
+collection
+numpy
+matplotlib
+keras
+tensorflow
